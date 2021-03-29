@@ -4,7 +4,9 @@ SEHEE LEE!
 
 IME of sejong university
 
-welcome my blog 💬 https://blog.naver.com/tpgml0634
+welcome my blog 📫 https://blog.naver.com/tpgml0634
+
+coding world news editor 💬 https://www.codingworldnews.com/
 
 <!--
 **eeee-day/eeee-day** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
