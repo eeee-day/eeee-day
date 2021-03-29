@@ -1,5 +1,8 @@
-### Hi there 👋
+### HI! It's SEHEE LEE 👋
+
 IME of sejong university
+welcome my blog https://blog.naver.com/tpgml0634
+
 <!--
 **eeee-day/eeee-day** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
